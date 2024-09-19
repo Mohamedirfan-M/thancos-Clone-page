@@ -1,0 +1,174 @@
+.bg{
+    background-image: url(http://www.thancosnatural.com/wp-content/uploads/2017/12/Banner.jpg); 
+    height: 780px;
+    width: 1500px; 
+    background-size:cover; 
+}
+.navbar{
+    height: 70px;
+    width: 1500px;
+    background-color:transparent;
+    background: rgba(11, 7, 7, 0.317);
+}
+.navbar ul{
+    position: relative;
+    color: white;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    padding-top: 30px;
+    font-weight:bolder;
+    font-size:larger;
+    font-family:"Open Sans",Arial, sans-serif;
+}
+.op1 li{
+    color: orange;
+}
+.cente{
+    background-image: url(http://www.thancosnatural.com/wp-content/uploads/2017/12/Thancos-Web-bg.jpg);
+    height: 750px;
+    width: 1500px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content:space-around;
+    padding-top: 40px;
+}
+.left, big{
+    color: black;
+    font-family: Satisfy, cursive;
+}
+.left,.right p{
+    text-justify: auto;
+    line-height: 30px;
+    font-family:cursive;
+    color: white;
+    font-size: larger;
+}
+.space{
+    height: 120px;
+    background-color: white;
+}
+.cente2 big{
+    color: white;
+}
+.cente2{
+    background-color:rgb(10, 201, 10);
+    display: flex;
+    justify-content:space-evenly;
+    text-align:left;
+    color: white;
+    height: 700px;
+    width: 1500px;
+}
+.c1{
+    font-size: 17px;
+    font-family: cursive;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 150px;
+    background-color: skyblue;
+    line-height: 30px;
+    height: 400px;
+    width: 300px;
+}
+.c2{
+    font-size: 17px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 150px;
+    background-color:green;
+    line-height: 30px;
+    height: 400px;
+    width: 300px;
+}
+.c3{
+    font-size: 17px;
+    font-family: URW Chancery L, cursive;
+    text-align: center;
+    margin-top: 150px;
+    background-color: orange;
+    line-height: 30px;
+    height: 400px;
+    width: 300px;
+    margin-right: 150px;
+}
+.cente3{
+    background-color: palevioletred;
+    height: 490px;
+    width: 1500px;
+}
+.cente3 big{
+    margin-top: 40px;
+    color: white;
+    font-family: cursive;
+    font-size: 24px;
+    margin-left: 190px;
+}
+.cente3 input{
+    background-color: palevioletred;
+    color: white;
+}
+::placeholder{
+    color: white;
+    font-size: larger;
+}
+.input1 input{
+    border-color: white;
+    height: 45px;
+    width: 1100px;
+}
+.input2 input{
+    border-color: white;
+    height: 45px;
+    width: 1100px;
+}
+.input3 input{
+    border-color: white;
+    height: 100px;
+    width: 1100px;
+}
+.clik button{
+    background-color: palevioletred;
+    color: yellow;
+    border-color: yellow;
+    border-radius: 5px;
+    height: 50px;
+    width: 105px;
+    font-size: large;
+    margin-right: 195px;
+}
+.footer{
+    background-color: rgb(28, 27, 27);
+    height: 220px;
+    width: 1500px;
+}
+.footer_last{
+    background-color: black;
+    height: 100px;
+    width: 1500px;
+}
+.heading big{
+    color: greenyellow;
+    font-family: cursive;
+}
+.content big{
+    color: white;
+}
+.heading2 big{
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+}
+.content2 big{
+    color: white;
+    font-family: cursive;
+}
+.footer{
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer_last big{
+    color: rgb(107, 105, 105);
+}
